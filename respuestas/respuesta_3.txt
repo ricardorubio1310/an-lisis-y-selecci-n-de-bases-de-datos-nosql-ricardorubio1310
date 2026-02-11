@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL columnares | Están optimizadas para una escritura masiva de datos y su almacenamiento ordenado, lo que hace muy eficientes las consultas de rangos de fechas y análisis de series temporales
