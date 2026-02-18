@@ -1,1 +1,1 @@
-NoSQL clave-valor | Ofrece la latencia más baja (acceso inmediato) al buscar por una clave única y permite la expiración automática de datos, perfecto para gestionar sesiones temporales.
+ CLAVE-VALOR | Ofrece la latencia más baja (acceso inmediato) al buscar por una clave única y permite la expiración automática de datos, perfecto para gestionar sesiones temporales.

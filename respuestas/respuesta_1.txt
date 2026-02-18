@@ -1,1 +1,1 @@
-NoSQL Grafos | Su arquitectura de nodos y relaciones permite recorrer conexiones complejas mucho más rápido que otros modelos, ideal para el sistema de recomendación que es lo que se busca en este enunciado.
+GRAFOS | Su arquitectura de nodos y relaciones permite recorrer conexiones complejas mucho más rápido que otros modelos, ideal para el sistema de recomendación que es lo que se busca en este enunciado.
